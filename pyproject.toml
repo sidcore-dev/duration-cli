@@ -8,12 +8,12 @@ version = "1.0.0"
 description = "Convert between human-readable durations (2h30m) and total seconds, auto-detecting direction."
 readme = "README.md"
 requires-python = ">=3.8"
-license = { text = "All Rights Reserved" }
+license = { text = "MIT" }
 authors = [{ name = "sidcore-dev" }]
 keywords = ["duration", "time", "cli", "devtools"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: Other/Proprietary License",
+    "License :: OSI Approved :: MIT License",
     "Environment :: Console",
     "Topic :: Utilities",
 ]
